@@ -1,0 +1,10 @@
+name: healthnorms
+title:
+username:
+account: healthnorms
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 667862
+bundleId: 1838366
+url: https://healthnorms.shinyapps.io/healthnorms/
+when: 1548509673.09117
